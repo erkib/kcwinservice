@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KeyCloakAsService": {
+      "commandName": "Project",
+      "commandLineArgs": "--no-windows-service"
+    }
+  }
+}
